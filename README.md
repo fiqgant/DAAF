@@ -1,11 +1,8 @@
 # Detecting and analyzing faces
 Detecting and analyzing faces using deepface
 
-## Demo
-[![Demo](https://www.herokucdn.com/deploy/button.svg)](https://f-curr.herokuapp.com/)
 
-
-# deepface
+# Deepface
 
 <div align="center">
 
